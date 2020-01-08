@@ -1,6 +1,8 @@
 # Yupserve Website # 
 Website Configuration
 
+The application has been built up using PHP and MySQL database.
+
 Clone or Download the report from GitHub to your local directory and place it on your server.
 
 #### DB Connection ####
