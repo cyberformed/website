@@ -10,6 +10,8 @@ Open the config.php file in root directory and change the database credentials f
 
 Browse the admin directory and open config.php file in the admin directory and change the database credentials for admin part.
 
+Open Database and open ct_order_client_info table. In the first row, 2nd column, change the domain / IP of the hosting environment to run the application.
+
 #### API ####
 
 API is inside the api directory which can be found in the root directory.
